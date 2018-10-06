@@ -1,1 +1,1 @@
-# sum-helper
+# Whooa! Sum helper has been released

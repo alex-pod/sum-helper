@@ -1,0 +1,22 @@
+{
+  "name": "ggatsby/sum-helper",
+  "description": "The most efficient sum helper ever",
+  "type": "package",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "license": "mit",
+  "authors": [
+    {
+      "name": "Alexander Posybailo",
+      "email": "ninjootsu@gmail.com",
+      "homepage": "http://podybailo.tk/"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "ggatsby\\SumHelper\\": "src/"
+    }
+  }
+}
